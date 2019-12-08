@@ -1,0 +1,3 @@
+<?php
+//Decoraor Example
+?>
